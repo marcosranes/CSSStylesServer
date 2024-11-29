@@ -1,0 +1,14 @@
+/* styles.css */
+.bg-primary {
+  background-color: #3490dc;
+}
+.text-white {
+  color: #ffffff;
+}
+.p-4 {
+  padding: 1rem;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+/* Adicione mais classes conforme necessário */
